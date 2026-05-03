@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Project Documentation
+
+- See `SRS.md` for the complete Software Requirements Specification (SRS) of the Smart Pharmacy Management System.
